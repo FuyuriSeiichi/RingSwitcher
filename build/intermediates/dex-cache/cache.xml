@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sbbg/Projects/RingSwitcher/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="85bd0f44c96d8d961d35c3a2d84f8a6e6e5b8643">
+        <dex dex="/home/sbbg/Projects/RingSwitcher/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e56ff9c0981a22f501ffaeb8d1c3047a5bbc468/classes.dex" />
+    </item>
+    <item
+        jar="/home/sbbg/Projects/RingSwitcher/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="36645fba3068d135e22476a7c25959706485bd7f">
+        <dex dex="/home/sbbg/Projects/RingSwitcher/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_498b9be7d7ca28e92db2102a4dbb69de70c88477/classes.dex" />
+    </item>
+
+</items>

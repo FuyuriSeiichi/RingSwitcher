@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:weightSum="5"
+              >
+  <ImageView 
+      android:id="@+id/imageview_top" 
+      android:layout_width="fill_parent"
+      android:layout_height="0dp"
+      android:layout_weight="3"
+      />
+
+  <RelativeLayout
+      android:id="@+id/layout_ring"
+      android:layout_width="fill_parent"
+      android:layout_height="0dp"
+      android:layout_weight="2"
+      >
+    <ImageView 
+        android:id="@+id/imageview_ring" 
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:src="@drawable/rec_bg_dotbg_normal"
+        />
+    <ImageView 
+        android:id="@+id/imageview_out_circle" 
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:src="@drawable/rec_move_dotcircleout_normal"
+        />
+    <ImageView 
+        android:id="@+id/imageview_inner_circle" 
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:src="@drawable/rec_move_dotcirclein_normal"
+        />
+    <ImageView 
+        android:id="@+id/imageview_center_button" 
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:alpha="0.7"
+        android:src="@drawable/rec_btn_dot_normal"
+        />
+    <ImageView
+        android:id="@+id/imageview_ring_cover"
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:src="@drawable/comm_pic_dotglass_normal"
+        />
+
+  </RelativeLayout>
+</LinearLayout>
+

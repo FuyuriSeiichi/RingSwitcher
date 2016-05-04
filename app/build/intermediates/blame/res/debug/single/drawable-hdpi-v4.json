@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rec_move_dotcircleout_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/rec_move_dotcircleout_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/comm_pic_dotglass_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/comm_pic_dotglass_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_move_dotcirclein_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/setting_move_dotcirclein_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rec_btn_dot_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/rec_btn_dot_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rec_move_dotcirclein_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/rec_move_dotcirclein_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rec_icon_rec_enable.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/rec_icon_rec_enable.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/playback_move_dotcircleout_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/playback_move_dotcircleout_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rec_move_funclight_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/rec_move_funclight_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_btn_dot_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/setting_btn_dot_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/comm_icon_snapshot_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/comm_icon_snapshot_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/comm_icon_setting_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/comm_icon_setting_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/playback_btn_dot_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/playback_btn_dot_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/snapshot_move_dotcirclein_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/snapshot_move_dotcirclein_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/playback_move_dotcirclein_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/playback_move_dotcirclein_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_move_dotcircleout_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/setting_move_dotcircleout_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ring_bg.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/ring_bg.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rec_pic_dotword_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/rec_pic_dotword_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_bg_dotbg_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/setting_bg_dotbg_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/snapshot_move_dotcircleout_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/snapshot_move_dotcircleout_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/snapshot_bg_dotbg_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/snapshot_bg_dotbg_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/comm_icon_playback_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/comm_icon_playback_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rec_bg_dotbg_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/rec_bg_dotbg_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/comm_icon_rec_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/comm_icon_rec_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/playback_bg_dotbg_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/playback_bg_dotbg_normal.png"
+    },
+    {
+        "merged": "/home/sbbg/Projects/RingSwitcher/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/snapshot_btn_dot_normal.png",
+        "source": "/home/sbbg/Projects/RingSwitcher/app/src/main/res/drawable-hdpi/snapshot_btn_dot_normal.png"
+    }
+]
