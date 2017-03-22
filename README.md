@@ -1,4 +1,4 @@
 # RingSwitcher
-![Screenshot](https://dl.dropboxusercontent.com/u/11940101/ringswitcher.png)
+![Screenshot](https://drive.google.com/open?id=0BzC2eXVhKPFwNUpBY3BVaXBqR00)
 Support tap to select, drag to rotate.
 
